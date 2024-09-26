@@ -26,25 +26,30 @@ align-items: center;
     color: black;
     font-size: 20px;    
 }
+.iconn{
+     width: 32px;
+     height: auto;
+    position: relative;
+   
+    
+}
 
 
 
     .icon{
         width: 32px;
         height: auto;
-     
+        
 
     }
     .ett{
      display: flex;
-     align-items: center;   
+     align-items: center;
+     justify-content: space-between;
+     gap: 20px;   
     }
 
-    .ett a{
-        margin-right: 25px;
-        
-
-    }
+  
     .logain{
       color: black;
       padding: 10px;
